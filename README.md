@@ -1,6 +1,6 @@
 [![Header](https://github.com/AlexGor161/AlexGor161/blob/main/Assets/logo.jpg?raw=true)]()
 
-## Привет, меня зовут АЛександр!
+## Привет, меня зовут Александр!
 Skills:
 
 
