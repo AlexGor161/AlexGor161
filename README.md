@@ -1,6 +1,6 @@
 [![Header](https://github.com/AlexGor161/AlexGor161/blob/main/Assets/logo.jpg?raw=true)]()
 
-## I'm QA Engineer
+## Привет, меня зовут АЛександр!
 Skills:
 
 
@@ -12,7 +12,7 @@ Skills:
 ![Devtools](https://img.shields.io/badge/Devtools-8A2BE2)
 
 
-Portfolio: 
+Testing documentation: 
 
 [Check-list](https://docs.google.com/spreadsheets/d/1xKtzUNQ-x0k-7xTf4z2CBoTkvjxLA_uCW_BSVtDWvC4/edit?usp=sharing)
 
