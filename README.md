@@ -21,6 +21,6 @@ Testing documentation:
 [Postman requests with API](https://github.com/AlexGor161/PostmanCollection)
 
 ### [GIT]()
- ![git init]() 
- ![git add]
- ![git commit]
+ ![git init](https://img.shields.io/badge/git%20init-green) 
+ ![git add](https://img.shields.io/badge/git%20add-green) 
+ ![git commit](https://img.shields.io/badge/git%20commit-green) 
