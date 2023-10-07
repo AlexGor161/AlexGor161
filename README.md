@@ -18,3 +18,5 @@ Testing documentation:
 
 [Bug report](https://docs.google.com/spreadsheets/d/1zZ69LM8wMh5VRSnoN6aJWoLafKz1Hmn-0w9mC0bHjKs/edit?usp=sharing)
 
+[Postman requests with API](https://github.com/AlexGor161/PostmanCollection)
+
