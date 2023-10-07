@@ -12,7 +12,7 @@
 ![Devtools](https://img.shields.io/badge/Devtools-8A2BE2)
 
 
-Testing documentation: 
+**Testing documentation:** 
 
 [Check-list](https://docs.google.com/spreadsheets/d/1xKtzUNQ-x0k-7xTf4z2CBoTkvjxLA_uCW_BSVtDWvC4/edit?usp=sharing)
 
@@ -21,6 +21,10 @@ Testing documentation:
 [Postman requests with API](https://github.com/AlexGor161/PostmanCollection)
 
 ### [GIT]()
- ![git init](https://img.shields.io/badge/git%20init-green) 
- ![git add](https://img.shields.io/badge/git%20add-green) 
- ![git commit](https://img.shields.io/badge/git%20commit-green) 
+ ![init](https://img.shields.io/badge/init-green) 
+ ![add](https://img.shields.io/badge/add-green) 
+ ![commit](https://img.shields.io/badge/commit-green) 
+ ![push](https://img.shields.io/badge/push-green)
+ ![pull](https://img.shields.io/badge/pull-green)
+ ![fetch](https://img.shields.io/badge/fetch-green)
+ ![merge](https://img.shields.io/badge/merge-green)
