@@ -22,11 +22,11 @@
 
 
 ### [SQL]()
-![Relational database](https://img.shields.io/badge/relational_database-#4b9217) 
-![create](https://img.shields.io/badge/create-#4b9217) 
-![select](https://img.shields.io/badge/select-#4b9217) 
-![join](https://img.shields.io/badge/join-#4b9217) 
-![...](https://img.shields.io/badge/...-#4b9217) 
+![Relational database](https://img.shields.io/badge/relational_database-4b9217) 
+![create](https://img.shields.io/badge/create-4b9217) 
+![select](https://img.shields.io/badge/select-4b9217) 
+![join](https://img.shields.io/badge/join-4b9217) 
+![...](https://img.shields.io/badge/...-4b9217) 
 
 ### [GIT]()
  ![init](https://img.shields.io/badge/init-#4b9217) 
